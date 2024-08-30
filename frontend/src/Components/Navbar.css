@@ -1,0 +1,43 @@
+.navbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+.submit_btn{
+    border: 2px solid white;
+    padding:  0.5rem 1rem;
+    background-color: inherit;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-size: 1rem;
+    font-weight: 200;
+    border-radius: 5px;
+    cursor: pointer;
+    transition:  all 0.3s ease-in-out;
+}
+
+
+.submit_btn:active{
+    transform: scale(0.9);
+}
+
+
+.help_center{
+    font-size: 2rem;
+    color: white;
+    font-weight: normal;
+
+}
+
+.navbar_head{
+    display: flex;
+    gap:0.5rem;
+}
