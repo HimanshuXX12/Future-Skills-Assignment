@@ -1,4 +1,4 @@
-#1.Creating Clone in Local computer
+# 1.Creating Clone in Local computer
 
 ```bash
 git clone https://github.com/HimanshuXX12/Future-Skills-Assignment
@@ -7,7 +7,7 @@ git clone https://github.com/HimanshuXX12/Future-Skills-Assignment
 After cloning you will see three things -**BACKEND** folder -**frontend** folder
 -Readme.md file
 
-#2.Backend
+# 2.Backend
 
 ```bash
 cd BACKEND
@@ -28,7 +28,7 @@ npm run start
 Above command will run the **Server.js** file using nodemon and connect to the datbase whoose link is given in the server.js file.
 Now at this moment the backend is started and now move into fronted
 
-#3.frontend
+# 3.frontend
 
 ```bash
 cd frontend
